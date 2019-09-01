@@ -10,6 +10,16 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+#Gradle
+.gradle
+/build/
+
+#IntelliJ
+.idea
+
+#Ignore Gradle GUI config
+gradle-app.setting
+
 # Package Files #
 *.jar
 *.war
