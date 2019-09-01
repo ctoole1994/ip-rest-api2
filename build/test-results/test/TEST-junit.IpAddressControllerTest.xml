@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.IpAddressControllerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-09-01T21:35:28" hostname="DESKTOP-V3O9V3G" time="0.375">
+  <properties/>
+  <testcase name="testCreateIpAddressesFailure" classname="junit.IpAddressControllerTest" time="0.355"/>
+  <testcase name="testAcquireIpAddressFailure" classname="junit.IpAddressControllerTest" time="0.008"/>
+  <testcase name="testGetAllIpAddresses" classname="junit.IpAddressControllerTest" time="0.006"/>
+  <testcase name="testReleaseIpAddress" classname="junit.IpAddressControllerTest" time="0.001"/>
+  <testcase name="testReleaseIpAddressFailure" classname="junit.IpAddressControllerTest" time="0.001"/>
+  <testcase name="testCreateIpAddressesSuccess" classname="junit.IpAddressControllerTest" time="0.003"/>
+  <testcase name="testAcquireIpAddressSuccess" classname="junit.IpAddressControllerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
